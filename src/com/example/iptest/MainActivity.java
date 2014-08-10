@@ -15,6 +15,11 @@ import android.os.Build;
 public class MainActivity extends ActionBarActivity {
      TextView iptv;
      String ip;
+     String ip;
+     String ip;
+     
+     String ip;
+     
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
